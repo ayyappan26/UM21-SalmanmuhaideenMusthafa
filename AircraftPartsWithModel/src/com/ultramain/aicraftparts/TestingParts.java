@@ -7,11 +7,7 @@ public class TestingParts {
 		AircraftParts.setBlackBoxNumber(234565);
 		AircraftParts.setLandingGearModelNum(1948);
 		AircraftParts.setAircraftPriceInFull(100000000);
-		
-		
-		
-		
-		
+			
 
 	}
 
